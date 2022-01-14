@@ -10,7 +10,7 @@ redirect_from:
 
 
 Hi there! Welcome to my website.
-I am a postdoctoral research at the [Space Sciences Laboratory](www.ssl.berkeley.edu/science/directory-of-researchers/name/lucas-liuzzo/), located at the [University of California, Berkeley](www.berkeley.edu).
+I am a postdoctoral research at the [Space Sciences Laboratory](https://www.ssl.berkeley.edu/science/directory-of-researchers/name/lucas-liuzzo/), located at the [University of California, Berkeley](https://www.berkeley.edu).
 
 
 
