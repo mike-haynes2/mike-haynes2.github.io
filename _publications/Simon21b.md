@@ -2,12 +2,12 @@
 title: "Formation of a displaced plasma wake at Neptune's moon Triton"
 collection: publications
 permalink: /publication/Simon21b
-excerpt: ' '
+excerpt: 'Analytical model of Triton's plasma environment.'
 date: 2021-12-29
 venue: 'Journal'
 paperurl: 'http://lukeliuzzo.github.io/files/simon_etal_2021b.pdf'
 ---
-Exerpt of the paper
+Here we expand on the hybrid model results of Liuzzo et al. (2021) to investigate the analytical theory behind the formation of a displaced wake at Triton.
 
 [You can read this paper here.](http://lukeliuzzo.github.io/files/Simon_etal_2021b.pdf)
 
