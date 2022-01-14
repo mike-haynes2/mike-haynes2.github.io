@@ -5,9 +5,9 @@ permalink: /publication/Vorburger21
 excerpt: ''
 date: 2021-11-15
 venue: 'Icarus'
-paperurl: 'http://lukeliuzzo.github.io/files/vorburger_etal_2021.pdf'
+paperurl: 'http://lukeliuzzo.github.io/files/Vorburger_etal_2021.pdf'
 ---
-Exerpt of the paper
+Here we investigate the generation mechanism of Ganymede's exosphere.
 
 [You can read this paper here.](http://lukeliuzzo.github.io/files/vorburger_etal_2021.pdf)
 
