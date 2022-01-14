@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Lucas Liuzzo's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-A data-driven personal website
+Lucas Liuzzo 
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Hi there! Welcome to my website.
+I am a postdoctoral research at the [Space Sciences Laboratory](www.ssl.berkeley.edu/science/directory-of-researchers/name/lucas-liuzzo/), located at the [University of California, Berkeley](www.berkeley.edu).
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+
+Active Research Interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+##Earth’s Moon: The closest, most well-visited moon in the solar system is located in our own backyard. During its ~29 day orbit around Earth, the Moon experiences a wide range of magnetic field and plasma environments. During approximately 5 days each month, the Moon is embedded deep within the lobes of the terrestrial magnetotail. Although the Moon’s exosphere is orders of magnitude less dense than Earth, the lunar exospheric density dominates compared to the tenuous magnetotail plasma. I have focused on constraining and understanding this type of interaction, to understand what it can tell us not only about the lunar atmosphere, but also about the low-energy plasma outflowing from Earth’s ionosphere.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+##The Icy Galilean Moons: My dissertation topic focused on Jupiter’s icy moon Callisto. Specifically, I use hybrid (kinetic ions, fluid electrons) modeling techniques in combination with energetic test-particle simulations to study Callisto’s interaction with the Jovian magnetosphere. I have recently expanded my studies to investigate the icy moons Ganymede and Europa, as well. By comparing output from my models to data from the magnetometer, plasma spectrometer, and energetic particle detector data obtained during the [Galileo](https://galileo.jpl.nasa.gov/) mission to Jupiter, I am able to provide insight into the search for water beneath the surfaces of these three icy moons. My research has introduced a method to disentangle signatures of plasma interaction and induction in magnetic field data, which is paramount in determining properties of subsurface, liquid water oceans. For Callisto, my research has identified a method to identify a signature of its subsurface ocean in energetic particle data, which can be used in concert with magnetometer data to help constrain the moon’s inductive response.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+I am involved with the European Space Agency’s upcoming [JUpiter Icy moons Explorer (JUICE) mission](http://sci.esa.int/juice/), where I provide modeling support to help determine flyby trajectories that will be optimal to characterize the inductive responses of the Galilean moons.
 
-**Markdown generator**
+##Triton: The plasma environment near Neptune’s moon Triton represents one of the most unique environments experienced by an icy moon anywhere throughout the solar system. The variability in the plasma and fields near the moon generates characteristic features of the plasma interaction that display similarities to many other objects throughout the solar system, over time scales of only a few hours. As a science team member of the NASA Trident mission concept (funded through Phase A), I model this interaction to understand and constrain the observability of signatures associated with magnetic fields induced deep within Triton’s interior.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+##Titan: Not only is Saturn’s moon Titan is similar to Callisto in size, it’s interaction with the Saturnian magnetosphere is highly analogous to Callisto’s interaction. Although the [Cassini](https://saturn.jpl.nasa.gov/) mission to Saturn has recently ended, there is still plenty of data from Titan flybys yet to be explored.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+##Pluto: With the [New Horizons](http://pluto.jhuapl.edu/) flyby of Pluto in mid 2015, research on this dwarf planet is as active as ever. Although no magnetometer was on board the spacecraft, plasma data obtained during the flyby is highly useful in the quest to characterize Pluto’s plasma interaction with the solar wind.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+##Mercury: Due to the end of NASA’s [MESSENGER mission](http://messenger.jhuapl.edu/) and the recent start of ESA’s [BepiColombo mission](http://sci.esa.int/bepicolombo/), interest in Mercury is at an all-time high. I am actively working with colleagues to understand Mercury’s interaction with the solar wind as well as the feedback of its interaction on the planet’s inductive response.
