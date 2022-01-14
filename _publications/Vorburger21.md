@@ -2,7 +2,7 @@
 title: "3D Monte-Carlo simulation of Ganymede's water exosphere"
 collection: publications
 permalink: /publication/Vorburger21
-excerpt: ''
+#excerpt: ''
 date: 2021-11-15
 venue: 'Icarus'
 paperurl: 'http://lukeliuzzo.github.io/files/Vorburger_etal_2021.pdf'
