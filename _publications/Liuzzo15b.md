@@ -1,11 +1,11 @@
 ---
 title: "The impact of Callisto’s atmosphere on its plasma interaction with the Jovian magnetosphere"
 collection: publications
-permalink: /publication/Liuzzo15
+permalink: /publication/Liuzzo15b
 #excerpt: ''
 date: 2015-11-12
 venue: 'Journal of Geophysical Research, Space Physics'
-paperurl: 'http://lukeliuzzo.github.io/files/Liuzzo_etal_2015.pdf'
+paperurl: 'http://lukeliuzzo.github.io/files/Liuzzo_etal_2015b.pdf'
 ---
 This study investigated the interaction of Callisto with Jupiter’s magnetospheric plasma for differing properties of Callisto’s atmosphere and ionosphere using the hybrid simulation model AIKEF. Key scenarios that were investigated included varying the angle of incoming solar radiation with respect to the impinging magnetospheric plasma, as well as simulations where Callisto’s distance to the center of Jupiter’s magnetospheric current sheet was changed.
 
