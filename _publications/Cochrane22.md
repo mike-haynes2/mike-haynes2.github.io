@@ -1,7 +1,7 @@
 ---
 title: "Single- and multi-pass magnetometric subsurface ocean detection and characterization in icy worlds using principal component analysis: Application to Triton"
 collection: publications
-permalink: /publication/Cochrane22
+permalink: /publication/Cochrane22.md
 excerpt: 'Investigates the feasibility of identifying induction at Triton.'
 date: 2022-01-10
 venue: 'Earth and Space Science'
