@@ -81,6 +81,7 @@ analytics:
   google:
     tracking_id          : G-0RFGF4SD9P
 
+google_analytics: G-0RFGF4SD9P
 
 # Site Author
 author:
