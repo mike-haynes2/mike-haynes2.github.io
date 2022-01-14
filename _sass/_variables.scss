@@ -76,7 +76,6 @@ $code-background-color-dark : mix(#000, $background-color, 20%);
 $text-color                 : #eaeaea;
 $border-color               : mix(#fff, $background-color, 20%);
 
-/* */
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
@@ -108,12 +107,21 @@ $xing-color                 : #006567;
 
 
 /* links */
+/*
 $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+*/
 
+/* New link colors */
+$link-color                 : mix(#000, $info-color, 15%) !default;
+$link-color-hover           : mix(#000, $link-color, 25%) !default;
+$link-color-visited         : mix(#fff, $link-color, 15%) !default;
+$masthead-link-color        : $primary-color !default;
+$masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
+$navicon-link-color-hover   : mix(#fff, $primary-color, 75%) !default;
 
 /*
    Breakpoints
