@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lucas Liuzzo's Homepage"
+title                    : "Lucas Liuzzo"
 title_separator          : "-"
 name                     : &name "Lucas Liuzzo"
 description              : &description "Researcher at Space Sciences Laboratory"
