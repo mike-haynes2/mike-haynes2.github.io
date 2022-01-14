@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/Simon21b
 #excerpt: ''
 date: 2021-12-29
-venue: 'Journal'
-paperurl: 'http://lukeliuzzo.github.io/files/simon_etal_2021b.pdf'
+venue: 'Journal of Geophysical Research, Space Physics'
+paperurl: 'http://lukeliuzzo.github.io/files/Simon_etal_2021b.pdf'
 ---
 Here we expand on the hybrid model results of Liuzzo et al. (2021) to investigate the analytical theory behind the formation of a displaced wake at Triton.
 
