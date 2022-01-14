@@ -2,7 +2,7 @@
 title: "Single- and multi-pass magnetometric subsurface ocean detection and characterization in icy worlds using principal component analysis: Application to Triton"
 collection: publications
 permalink: /publication/Cochrane22
-excerpt: 'This study investigates the feasibility of identifying Triton's inductive signature during single-pass flyby missions.'
+excerpt: 'This study investigates the feasibility of identifying Triton's inductive signature.'
 date: 2015-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
