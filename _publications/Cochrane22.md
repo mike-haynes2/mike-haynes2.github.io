@@ -10,6 +10,6 @@ citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 
 ---
 This paper investigates the feasibility of identifying induction at Triton during flyby missions.
 
-[Download paper here](http://lukeliuzzo.github.io/files/paper3.pdf)
+[Download paper here](http://lukeliuzzo.github.io/files/Cochrane_etal_2022.pdf)
 
 Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3)..
