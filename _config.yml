@@ -89,11 +89,11 @@ author:
   avatar           : "profile.png"
   bio              : "Postdoctoral Researcher at the Space Sciences Laboratory"
   location         : "Berkeley, California"
-  employer         :
+  employer         : "University of California, Berkeley"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FLOtSqUAAAAJ"
   email            : "liuzzo@berkeley.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Lucas-Liuzzo"
   uri              :
   bitbucket        :
   codepen          :
