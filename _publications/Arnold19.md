@@ -11,4 +11,4 @@ In this study, we have identified the signature of a plume at Europa using magne
 
 [You can read this paper here.](http://lukeliuzzo.github.io/files/Arnold_etal_2019.pdf)
 
-Recommended citation: Arnold, H., L. Liuzzo, and S. Simon (2019), Magnetic Signatures of a Plume at Europa during the Galileo E26 Flyby, Geophys. Res. Lett., 46, 1149-1157, doi:10.1029/2018GL081544.
+Recommended citation: Arnold, H., L. Liuzzo, and S. Simon (2019), Magnetic Signatures of a Plume at Europa during the Galileo E26 Flyby, Geophys. Res. Lett., 46, 1149-1157, [doi:10.1029/2018GL081544](https://doi.org/10.1029/2018GL081544).
