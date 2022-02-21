@@ -11,4 +11,4 @@ In this study, we investigate the flux deposited onto Ganymede’s surface from 
 
 [You can read this paper here.](http://lukeliuzzo.github.io/files/Liuzzo_etal_2020.pdf)
 
-Recommended citation: Liuzzo, L., A. R. Poppe, C. Paranicas, Q. Nénon, S. Fatemi, and S. Simon (2020), Variability in the energetic electron bombardment of Ganymede, J. Geophys. Res. Space Physics, 125, e2020JA028347, doi:10.1029/2020JA028347.
+Recommended citation: Liuzzo, L., A. R. Poppe, C. Paranicas, Q. Nénon, S. Fatemi, and S. Simon (2020), Variability in the energetic electron bombardment of Ganymede, <i>J. Geophys. Res. Space Physics, 125</i>, e2020JA028347, [doi:10.1029/2020JA028347](https://doi.org/10.1029/2020JA028347).
