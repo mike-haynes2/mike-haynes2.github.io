@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-## Invited Talks<span style="color:blue">some *blue* text</span>
+## <span style="color:blue">Invited Talks</span>
 
 <b>On the Moon's interaction with the terrestrial magnetosphere</b>. Taiwan Space Union, Mini-Moon-Seminar Series, 01/2022.
 
@@ -32,7 +32,7 @@ author_profile: true
 
 <b>The interaction of Callisto's atmosphere with the Jovian magnetosphere</b>. International School/Symposium for Space Simulations, Prague, Czech Republic, 07/2015.
 
-## Contributed Presentations
+## <span style="color:blue">Contributed Presentations</span>
 * <sup>T</sup> indicates a contributed talk
 * <sup>P</sup> indicates a contributed poster
 
