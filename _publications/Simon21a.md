@@ -11,4 +11,4 @@ In this study, we present an analytical description of the Alfvén wings generat
 
 [You can read this paper here.](http://lukeliuzzo.github.io/files/Simon_etal_2021a.pdf)
 
-Recommended citation: Simon, S., L. Liuzzo, and P. Addison (2021), Role of the ionospheric conductance profile in sub-Alfvénic moon-magnetosphere interactions: An analytical model, J. Geophys. Res. Space Physics, 126, e2021JA029191, doi:10.1029/2021JA029191.
+Recommended citation: Simon, S., L. Liuzzo, and P. Addison (2021), Role of the ionospheric conductance profile in sub-Alfvénic moon-magnetosphere interactions: An analytical model, <i>J. Geophys. Res. Space Physics, 126</i>, e2021JA029191, [doi:10.1029/2021JA029191](https://doi.org/10.1029/2021JA029191).
