@@ -11,4 +11,4 @@ Here we investigate the generation mechanism of Ganymede's exosphere.
 
 [You can read this paper here.](http://lukeliuzzo.github.io/files/Vorburger_etal_2021.pdf)
 
-Recommended citation: Vorburger, A., S. Fatemi, A. Galli, L. Liuzzo, A. R. Poppe, and P. Wurz (2021). 3D Monte-Carlo simulation of Ganymede's water exosphere. <i>Icarus</i>, 114810.
+Recommended citation: Vorburger, A., S. Fatemi, A. Galli, L. Liuzzo, A. R. Poppe, and P. Wurz (2021). 3D Monte-Carlo simulation of Ganymede's water exosphere. <i>Icarus, 374</i>, 114810, [doi:10.1016/j.icarus.2021.114810](https://doi.org/10.1016/j.icarus.2021.114810).
