@@ -74,7 +74,7 @@ author_profile: true
  
 <b>Energetic ion dynamics near Callisto</b><sup>T</sup>. Asia Oceania Geosciences Society Meeting, Honolulu, HI, USA, 06/2018.
   
-<b>A comprehensive picture of Callisto's magnetic environment during the Galileo era</b><sup>P</sup>. Asia Oceania Geosciences Society Meeting, Honolulu, HI, USA, 06/2018.
+<b>A comprehensive picture of Callisto's magnetic environment during the Galileo era</b><sup>P</sup>. Asia Oceania Geosciences Society Meeting, Honolulu, HI, USA, 06/2018. <i>(Awarded 1<sup>st</sup> prize in the Student Poster Contest)</i>
   
 <b>Plasma interaction and energetic particle dynamics near Callisto</b><sup>P</sup>. American Geophysical Union Fall Meeting, New Orleans, LA, USA, 12/2017.
   
@@ -90,7 +90,7 @@ author_profile: true
   
 <b>Modeling Callisto's interaction with the Jovian magnetospheric environment</b><sup>P</sup>. American Geophysical Union Fall Meeting, San Francisco, CA, USA, 12/2015.
   
-<b>Studying the effect of atmospheric configuration on plasma interaction at Callisto</b><sup>P</sup>. International School/Symposium for Space Simulations, Prague, Czech Republic, 07/2015.
+<b>Studying the effect of atmospheric configuration on plasma interaction at Callisto</b><sup>P</sup>. International School/Symposium for Space Simulations, Prague, Czech Republic, 07/2015. <i>(Awarded 1<sup>st</sup> prize in the Best Poster Contest)</i>
   
 <b>Studying moon-magnetosphere interactions at Callisto and Titan</b><sup>P</sup>. International School/Symposium for Space Simulations, Prague, Czech Republic, 07/2015.
   
@@ -100,7 +100,7 @@ author_profile: true
   
 <b>High-latitude ionospheric drivers and their effects on wind patterns in the thermosphere</b><sup>P</sup>. Coupling, Energetics and Dynamics of Atmospheric Regions Annual Conference, Seattle, WA, USA, 06/2014.
   
-<b>A statistical comparison of thermosphere-ionosphere models</b><sup>P</sup>. Coupling, Energetics and Dynamics of Atmospheric Regions Annual Conference, Seattle, WA, USA, 06/2014.
+<b>A statistical comparison of thermosphere-ionosphere models</b><sup>P</sup>. Coupling, Energetics and Dynamics of Atmospheric Regions Annual Conference, Seattle, WA, USA, 06/2014. <i>(Awarded 1<sup>st</sup> prize in the Student Research Contest, ionospheric category)</i>
   
 <b>High-latitude ionospheric drivers and their effects on wind patterns in the thermosphere</b><sup>P</sup>.American Geophysical Union Fall Meeting, San Francisco, CA, USA, 12/2013.
   
