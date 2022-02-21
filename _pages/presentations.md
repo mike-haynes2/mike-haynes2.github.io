@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Presentations"
+title: "First-Authored Presentations"
 permalink: /presentations/
 author_profile: true
 #redirect_from:
