@@ -11,4 +11,4 @@ TThis study focused on the final four flybys of Callisto during the Galileo Miss
 
 [You can read this paper here.](http://lukeliuzzo.github.io/files/Liuzzo_etal_17.pdf)
 
-Recommended citation: Liuzzo, L., S. Simon, M. Feyerabend, and U. Motschmann (2017), Magnetic signatures of plasma interaction and induction: The Galileo C21, C22, C23, and C30 flybys, J. Geophys. Res. Space Physics,122, 7364-7386. doi:10.1002/2017JA024303.
+Recommended citation: Liuzzo, L., S. Simon, M. Feyerabend, and U. Motschmann (2017), Magnetic signatures of plasma interaction and induction: The Galileo C21, C22, C23, and C30 flybys, <i>J. Geophys. Res. Space Physics, 122</i>, 7364-7386, [doi:10.1002/2017JA024303](https://doi.org/10.1002/2017JA024303).
