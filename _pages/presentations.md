@@ -33,3 +33,7 @@ author_profile: true
 <b>The interaction of Callisto's atmosphere with the Jovian magnetosphere</b>. International School/Symposium for Space Simulations, Prague, Czech Republic, 07/2015.
 
 ## Contributed Presentations
+* <sup>T</sup> indicates a contributed talk
+* <sup>P</sup> indicates a contributed poster
+
+<b>Energetic particle deposition onto Callisto's atmosphere</b><sup>P</sup>. American Geophysical Fall Meeting, Virtual, 12/2021.
