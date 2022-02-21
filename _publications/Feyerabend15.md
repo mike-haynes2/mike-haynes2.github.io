@@ -11,4 +11,4 @@ This study used the AIKEF hybrid simulation model to investigate three Cassini f
 
 [You can read this paper here.](http://lukeliuzzo.github.io/files/Feyerabend_etal_15.pdf)
 
-Recommended citation: Feyerabend, M., S. Simon, U. Motschmann, and L. Liuzzo (2015), Filamented ion tail structures at Titan: A hybrid simulation study, Planet. Space Sci., 117, 362-376. doi:10.1016/j.pss.2015.07.008
+Recommended citation: Feyerabend, M., S. Simon, U. Motschmann, and L. Liuzzo (2015), Filamented ion tail structures at Titan: A hybrid simulation study, <i>Planet. Space Sci., 117</i>, 362-376, [doi:10.1016/j.pss.2015.07.008](https://doi.org/10.1016/j.pss.2015.07.008).
