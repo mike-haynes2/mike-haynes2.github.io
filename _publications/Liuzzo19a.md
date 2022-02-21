@@ -11,4 +11,4 @@ This study uses an energetic ion test particle model to understand the effect th
 
 [You can read this paper here.](http://lukeliuzzo.github.io/files/Arnold_etal_2019.pdf)
 
-Recommended citation: Liuzzo, L., S. Simon, and L. Regoli (2019), Energetic ion dynamics near Callisto, Planet. Space Sci., 166, 23-53, doi:10.1016/j.pss.2018.07.014.
+Recommended citation: Liuzzo, L., S. Simon, and L. Regoli (2019), Energetic ion dynamics near Callisto, <i>Planet. Space Sci., 166</i>, 23-53, [doi:10.1016/j.pss.2018.07.014](https://doi.org/10.1016/j.pss.2018.07.014).
