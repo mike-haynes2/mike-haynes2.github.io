@@ -37,3 +37,4 @@ author_profile: true
 * <sup>P</sup> indicates a contributed poster
 
 <b>Energetic particle deposition onto Callisto's atmosphere</b><sup>P</sup>. American Geophysical Fall Meeting, Virtual, 12/2021.
+<b>Investigating the Moon's interaction with the terrestrial magnetotail lobe plasma</b><sup>P</sup> American Geophysical Fall Meeting, Virtual, 12/2021.
