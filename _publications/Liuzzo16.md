@@ -11,4 +11,4 @@ This study used the AIKEF hybrid simulation model to investigate magnetometer an
 
 [You can read this paper here.](http://lukeliuzzo.github.io/files/Liuzzo_etal_16.pdf)
 
-Recommended citation: Liuzzo, L., S. Simon, M. Feyerabend, and U. Motschmann (2016), Disentangling plasma interaction and induction signatures at Callisto: The Galileo C10 flyby, J. Geophys. Res. Space Physics,121, 8677-8694. doi:10.1002/2016JA023236.
+Recommended citation: Liuzzo, L., S. Simon, M. Feyerabend, and U. Motschmann (2016), Disentangling plasma interaction and induction signatures at Callisto: The Galileo C10 flyby, <i>J. Geophys. Res. Space Physics, 121</i>, 8677-8694, [doi:10.1002/2016JA023236](https://doi.org/10.1002/2016JA023236).
