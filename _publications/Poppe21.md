@@ -11,4 +11,4 @@ This study identifies a previously undetected source of current into the lunar s
 
 [You can read this paper here.](http://lukeliuzzo.github.io/files/Poppe_etal_2021.pdf)
 
-Recommended citation: Poppe, A. R., S. Xu, L. Liuzzo, J. S. Halekas, and Y. Harada (2021), ARTEMIS observations of lunar nightside surface potentials in the magnetotail lobes: Evidence for micrometeoroid impact charging, Geophys. Res. Lett, 48, e2021GL094585, doi:10.1029/2021GL094585.
+Recommended citation: Poppe, A. R., S. Xu, L. Liuzzo, J. S. Halekas, and Y. Harada (2021), ARTEMIS observations of lunar nightside surface potentials in the magnetotail lobes: Evidence for micrometeoroid impact charging, <i>Geophys. Res. Lett, 48</i>, e2021GL094585, [doi:10.1029/2021GL094585](https://doi.org/10.1029/2021GL094585).
