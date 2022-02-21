@@ -11,4 +11,4 @@ This study investigates the electromagnetic perturbations near Europa associated
 
 [You can read this paper here.](http://lukeliuzzo.github.io/files/Arnold_etal_2020a.pdf)
 
-Recommended citation: Arnold, H., Liuzzo, L., and S. Simon (2020), Plasma interaction signatures of plumes at Europa, J. Geophys. Res. Space Physics, 125, e2019JA027346, doi:10.1029/2019JA027346.
+Recommended citation: Arnold, H., Liuzzo, L., and S. Simon (2020), Plasma interaction signatures of plumes at Europa, J. Geophys. Res. Space Physics, 125, e2019JA027346, [doi:10.1029/2019JA027346](https://doi.org/10.1029/2019JA027346).
