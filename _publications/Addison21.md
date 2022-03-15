@@ -1,5 +1,5 @@
 ---
-title: "Influence of Europa’s Time‐Varying Electromagnetic Environment on Magnetospheric Ion Precipitation and Surface Weathering"
+title: "Influence of Europa’s time‐varying electromagnetic environment on magnetospheric ion precipitation and surface weathering"
 collection: publications
 permalink: /publication/Addison21
 #excerpt: ''
@@ -11,4 +11,4 @@ In this study, we investigate the low- and high-energy ion precipitation onto Eu
 
 [You can read this paper here.](http://lukeliuzzo.github.io/files/Addison_etal_2021.pdf)
 
-Recommended citation: Addison, P., L. Liuzzo, H. Arnold, and S. Simon (2021), Influence of Europa’s Time‐Varying Electromagnetic Environment on Magnetospheric Ion Precipitation and Surface Weathering, <i>J. Geophys. Res. Space Physics, 126</i>, e2020JA029087, [doi:10.1029/2020JA029087](https://doi.org/10.1029/2020JA029087).
+Recommended citation: Addison, P., L. Liuzzo, H. Arnold, and S. Simon (2021), Influence of Europa’s time‐varying electromagnetic environment on magnetospheric ion precipitation and surface weathering, <i>J. Geophys. Res. Space Physics, 126</i>, e2020JA029087, [doi:10.1029/2020JA029087](https://doi.org/10.1029/2020JA029087).
