@@ -3,7 +3,7 @@ title: "A statistical study of the Moon's magnetotail plasma environment"
 collection: publications
 permalink: /publication/Liuzzo22a
 #excerpt: ''
-#date: 2021-04-26
+date: 2022-03-21
 venue: 'Journal of Geophysical Research (Space Physics)'
 paperurl: 'http://lukeliuzzo.github.io/files/Liuzzo_etal_2022a.pdf'
 ---
