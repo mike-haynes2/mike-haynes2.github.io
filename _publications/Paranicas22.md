@@ -1,7 +1,7 @@
 ---
 title: "Energetic charged particle fluxes relevant to Ganymede's polar region"
 collection: publications
-permalink: /publication/Paranicas22.md
+permalink: /publication/Paranicas22
 #excerpt: ''
 date: 2022-05-13
 venue: 'Geophysical Research Letters'
