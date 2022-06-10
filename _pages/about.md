@@ -11,7 +11,7 @@ redirect_from:
 
 Hi there, welcome to my website!
 
-I am a postdoctoral researcher at the [Space Sciences Laboratory](https://www.ssl.berkeley.edu/science/directory-of-researchers/name/lucas-liuzzo/), located at the [University of California, Berkeley](https://www.berkeley.edu).
+I am an Assistant Research Scientist at the [Space Sciences Laboratory](https://www.ssl.berkeley.edu/science/directory-of-researchers/name/lucas-liuzzo/), located at the [University of California, Berkeley](https://www.berkeley.edu).
 
 
 
@@ -36,3 +36,4 @@ With the [New Horizons](http://pluto.jhuapl.edu/) flyby of Pluto in mid 2015, re
 
 ## Mercury
 Due to the end of NASA’s [MESSENGER mission](http://messenger.jhuapl.edu/) and the recent start of ESA’s [BepiColombo mission](http://sci.esa.int/bepicolombo/), interest in Mercury is at an all-time high. I am actively working with colleagues to understand Mercury’s interaction with the solar wind as well as the feedback of its interaction on the planet’s inductive response.
+
