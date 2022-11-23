@@ -36,6 +36,14 @@ author_profile: true
 * <sup>T</sup> indicates a contributed talk
 * <sup>P</sup> indicates a contributed poster
 
+<b>A statistical study of the Moon's magnetotail plasma environment</b><sup>P</sup>. Europlanet Science Congress, Granada, Spain, 09/2022.
+
+<b>Energetic particle fluxes onto Callisto's atmosphere</b><sup>T</sup>. Europlanet Science Congress, Granada, Spain, 09/2022.
+
+<b>Energetic particle fluxes onto Callisto's atmosphere</b><sup>T</sup>. Magnetospheres of the Outer Planets Meeting, Liége, Belgium, 07/2022.
+
+<b>Formation of a tilted plasma wake at Neptune's moon, Triton</b><sup>P</sup>. Magnetospheres of the Outer Planets Meeting, Liége, Belgium, 07/2022.
+
 <b>Energetic particle deposition onto Callisto's atmosphere</b><sup>P</sup>. American Geophysical Fall Meeting, Virtual, 12/2021.
 
 <b>Investigating the Moon's interaction with the terrestrial magnetotail lobe plasma</b><sup>P</sup> American Geophysical Fall Meeting, Virtual, 12/2021.
