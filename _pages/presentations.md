@@ -36,6 +36,12 @@ author_profile: true
 * <sup>T</sup> indicates a contributed talk
 * <sup>P</sup> indicates a contributed poster
 
+<b>Unrestricted Solar Energetic Particle Access to the Moon While Within the Terrestrial Magnetotail</b><sup>T</sup>. Dust, Atmosphere, and Plasma Environment of the Moon and Small Bodies Workshop, Boulder, CO, USA, 06/2023.
+
+<b>A statistical study of the Moon's magnetotail plasma environment</b><sup>T</sup>. THEMIS/ARTEMIS SWT Meeting, Chicago, IL, USA, 12/2022.
+
+<b>A statistical study of the Moon's magnetotail plasma environment</b><sup>P</sup>. American Geophysical Union Fall Meeting, Chicago, IL, USA, 12/2022.
+
 <b>A statistical study of the Moon's magnetotail plasma environment</b><sup>P</sup>. Europlanet Science Congress, Granada, Spain, 09/2022.
 
 <b>Energetic particle fluxes onto Callisto's atmosphere</b><sup>T</sup>. Europlanet Science Congress, Granada, Spain, 09/2022.
