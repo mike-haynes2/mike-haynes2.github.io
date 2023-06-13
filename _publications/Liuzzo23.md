@@ -1,7 +1,7 @@
 ---
 title: "Unrestricted solar energetic particle access to the Moon while within the terrestrial magnetotail"
 collection: publications
-permalink: /publication/testfile
+permalink: /publication/Liuzzo23
 #excerpt: ''
 date: 2023-06-14
 venue: 'Geophysical Research Letters'
