@@ -36,7 +36,9 @@ author_profile: true
 * <sup>T</sup> indicates a contributed talk
 * <sup>P</sup> indicates a contributed poster
 
-<b>Unrestricted Solar Energetic Particle Access to the Moon While Within the Terrestrial Magnetotail</b><sup>T</sup>. Dust, Atmosphere, and Plasma Environment of the Moon and Small Bodies Workshop, Boulder, CO, USA, 06/2023.
+<b>The importance of plasma measurements for ice giant moon science</b><sup>T</sup>. Uranus Flagship Workshop, Pasadena, CA, USA, 07/2023.
+
+<b>Unrestricted solar energetic particle access to the Moon while within the terrestrial magnetotail</b><sup>T</sup>. Dust, Atmosphere, and Plasma Environment of the Moon and Small Bodies Workshop, Boulder, CO, USA, 06/2023.
 
 <b>A statistical study of the Moon's magnetotail plasma environment</b><sup>T</sup>. THEMIS/ARTEMIS SWT Meeting, Chicago, IL, USA, 12/2022.
 
