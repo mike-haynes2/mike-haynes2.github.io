@@ -1,7 +1,7 @@
 ---
 title: "Surface-plasma interactions at Europa in draped magnetospheric fields: The contribution of energetic electrons to energy deposition and sputtering"
 collection: publications
-permalink: /publication/Addison2e
+permalink: /publication/Addison23
 #excerpt: ''
 date: 2023-08-25
 venue: 'Journal of Geophysical Research, Space Physics'
