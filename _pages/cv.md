@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-I am currently an Assistant Research Scientist at the Space Sciences Laboratory at the University of California, Berkeley.
+I work as a graduate research assistant of the MOSS group (https://svensimon.gatech.edu/) for Dr. Sven Simon at Georgia Tech in the city of Atlanta. 
 
-[My most-recently updated CV can be found here](http://lukeliuzzo.github.io/files/Liuzzo_CV.pdf)
+[My most-recently updated CV can be found here](http://mike-haynes2.github.io/files/Haynes_CV.pdf)

@@ -9,33 +9,28 @@ redirect_from:
 ---
 
 
-Hi there, welcome to my website!
+Hello there!
 
-I am an Assistant Research Scientist at the [Space Sciences Laboratory](https://www.ssl.berkeley.edu/science/directory-of-researchers/name/lucas-liuzzo/), located at the [University of California, Berkeley](https://www.berkeley.edu).
-
-<-- That's my dog Laika.
+Welcome to my personal webpage. I am a graduate researcher in the [School of Earth and Atmospheric Sciences]{https://eas.gatech.edu/} at the [Georgia Institute of Technology]{https://gatech.edu/} in Atlanta, Georgia. 
 
 
 
 Active Research Interests
 ======
-## Earth’s Moon
-The closest, most well-visited moon in the solar system is located in our own backyard. During its ~29 day orbit around Earth, the Moon experiences a wide range of magnetic field and plasma environments. During approximately 5 days each month, the Moon is embedded deep within the lobes of the terrestrial magnetotail. Although the Moon’s exosphere is orders of magnitude less dense than Earth, the lunar exospheric density dominates compared to the tenuous magnetotail plasma. I have focused on constraining and understanding this type of interaction, to understand what it can tell us not only about the lunar atmosphere, but also about the low-energy plasma outflowing from Earth’s ionosphere.
+## Energetic Neutral Atom (ENA) Emissions
+My work focuses on developing a method to remotely sense the complex, three-dimensional interactions between magnetized plasmas and obstacles (such as moons or planets) through a more efficient means. Energetic Neutral Atoms (ENAs) are a powerful tool for such remote sensing, since the morphology of ENA emissions is governed by the ambient neutral gas distribution, the ambient energetic ion distribution, and the local magnetic field configuration. As such, these ENAs which propogate along straight trajectories may be imaged, in a sense. Reconstructing the physical nature of the obstacle-plasma interaction through theoretical considerations and numerical modeling is the goal of my work.
 
-## The Icy Galilean Moons
-My dissertation topic focused on Jupiter’s icy moon Callisto. Specifically, I use hybrid (kinetic ions, fluid electrons) modeling techniques in combination with energetic test-particle simulations to study Callisto’s interaction with the Jovian magnetosphere. I have recently expanded my studies to investigate the icy moons Ganymede and Europa, as well. By comparing output from my models to data from the magnetometer, plasma spectrometer, and energetic particle detector data obtained during the [Galileo](https://galileo.jpl.nasa.gov/) mission to Jupiter, I am able to provide insight into the search for water beneath the surfaces of these three icy moons. My research has introduced a method to disentangle signatures of plasma interaction and induction in magnetic field data, which is paramount in determining properties of subsurface, liquid water oceans. For Callisto, my research has identified a method to identify a signature of its subsurface ocean in energetic particle data, which can be used in concert with magnetometer data to help constrain the moon’s inductive response.
+In the early 2030s, ESA's [JUICE]{https://www.esa.int/Science_Exploration/Space_Science/Juice} will arrive at the Jovian system and take the first ENA images of the Galilean moons' interactions. In anticipation of this, I am developing the first ever model to self-consistently model the plasma interaction and subsequent ENA emissions from the atmosphere of Europa. Using a hybrid model to determine the field configurations and a particle tracing tool to evolve the propogating energetic ion trajectories, I am able to constrain the influence of key parameters of the system (Pitch Angle Distribution, neutral gas distribution, strength of plasma interaction and/or inductive response) through the observed ENA emissions. 
 
-I am involved with the European Space Agency’s upcoming [JUpiter Icy moons Explorer (JUICE) mission](http://sci.esa.int/juice/), where I provide modeling support to help determine flyby trajectories that will be optimal to characterize the inductive responses of the Galilean moons.
+## Europa
+The interaction between Europa and the plasma embedded within the Jovian magnetosphere stimulates a complex physical system that is not yet entirely understood. I utilize an established hybrid plasma model ([AIKEF]{https://doi.org/10.1016/j.cpc.2010.12.033}) to simulate the magnetized Jovian plasma in the neighborhood of Europa and the resultant perturbations to the electromagnetic fields that develop from the interplay between this plasma and the neutral envelope of the Galilean moon. These simulations can offer context to magnetic field observations and plasma spectrometer readings from spacecraft flybys.
 
-## Triton
-The plasma environment near Neptune’s moon Triton represents one of the most unique environments experienced by an icy moon anywhere throughout the solar system. The variability in the plasma and fields near the moon generates characteristic features of the plasma interaction that display similarities to many other objects throughout the solar system, over time scales of only a few hours. As a science team member of the NASA Trident mission concept (funded through Phase A), I model this interaction to understand and constrain the observability of signatures associated with magnetic fields induced deep within Triton’s interior.
 
-## Titan
-Not only is Saturn’s moon Titan is similar to Callisto in size, it’s interaction with the Saturnian magnetosphere is highly analogous to Callisto’s interaction. Although the [Cassini](https://saturn.jpl.nasa.gov/) mission to Saturn has recently ended, there is still plenty of data from Titan flybys yet to be explored.
+
+## Callisto
+Callisto possesses the second most dense molecular oxygen rich atmosphere in the solar system- can you guess the first!? Given this, and its putative subsurface ocean, the Galilean moon has been a recent interest of the plasma physicists. I am interested in characterizing its highly variable interaction with the Jovian magnetosphere. In contrast to Europa and Io in the inner magnetosphere, Callisto orbits at over 26 Jupiter radii from Jupiter. This results in the magnetic field orientation and plasma conditions at Callisto to vary much more strongly than they do at the other Galilean moons. I have developed a model to apply a combination of particle tracing and hybrid plasma simulations to constrain the variability in ENA emissions at Callisto across its orbit. This work, in preparation for ESA's JUICE mission, will inform ideal spacecraft trajectories for ENA imaging of Callisto's rich interaction. 
+
+
 
 ## Pluto
-With the [New Horizons](http://pluto.jhuapl.edu/) flyby of Pluto in mid 2015, research on this dwarf planet is as active as ever. Although no magnetometer was on board the spacecraft, plasma data obtained during the flyby is highly useful in the quest to characterize Pluto’s plasma interaction with the solar wind.
-
-## Mercury
-Due to the end of NASA’s [MESSENGER mission](http://messenger.jhuapl.edu/) and the recent start of ESA’s [BepiColombo mission](http://sci.esa.int/bepicolombo/), interest in Mercury is at an all-time high. I am actively working with colleagues to understand Mercury’s interaction with the solar wind as well as the feedback of its interaction on the planet’s inductive response.
-
+After the [New Horizons]{https://www.nasa.gov/mission_pages/newhorizons/main/index.html} flyby of the dwarf planet in 2015, research studying the heliospheric environment of Pluto was reinvigorated. I have worked to implement the hybrid model at the Pluto system for a project during my first year of graduate school. I am interested in constraining the three-dimensional nature of the plasma interaction during the New Horizons flyby using a joint model of the electromagnetic fields and energetic ion fluxes. The orbital distance, and thus the heliospheric environment of Pluto is highly variable, ranging from 30 AU to nearly 50 AU at aphelion. Since New Horizons only was able to perform a single flyby of the Plutonian system, I am interested in using the knowledge from the flyby to study the environment of Pluto throughout its 248 year orbit. 
