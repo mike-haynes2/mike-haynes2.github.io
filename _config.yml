@@ -11,13 +11,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lucas Liuzzo"
+title                    : "C. Michael Haynes"
 title_separator          : "-"
-name                     : &name "Lucas Liuzzo"
-description              : &description "Researcher at Space Sciences Laboratory"
-url                      : https://lukeliuzzo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "C. Michael Haynes"
+description              : &description "Graduate Researcher at Georgia Institute of Technology"
+url                      : https://mike-haynes2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lukeliuzzo/lukeliuzzo.github.io"
+repository               : "mike-haynes2/mike-haynes2.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,15 +85,15 @@ google_analytics: G-0RFGF4SD9P
 
 # Site Author
 author:
-  name             : "Lucas Liuzzo"
+  name             : "C. Michael Haynes"
   avatar           : "profile.png"
-  bio              : "Assistant Research Scientist at the Space Sciences Laboratory"
-  location         : "Berkeley, California"
-  employer         : "University of California, Berkeley"
+  bio              : "Doctoral Student Researcher in the School of Earth and Atmospheric Sciences"
+  location         : "Atlanta, Georgia"
+  employer         : "Georgia Institute of Technology"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=FLOtSqUAAAAJ"
-  email            : "liuzzo@berkeley.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Lucas-Liuzzo"
+  googlescholar    : "https://scholar.google.com/citations?user=dTwVdX0AAAAJ&hl=en"
+  email            : "mhaynes@eas.gatech.edu"
+  researchgate     : #"https://www.researchgate.net/profile/Lucas-Liuzzo"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,20 +101,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lukeliuzzo"
+  github           : "mike-haynes2"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "lrliuzzo"
-  orcid            : "https://orcid.org/0000-0002-4820-8594"
+  linkedin         : "https://www.linkedin.com/in/charles-haynes-129b56191"
+  orcid            : "https://orcid.org/0009-0004-3641-5985"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackexchange.com/users/11724214/charles-haynes"
   steam            :
   tumblr           :
-  twitter          : "lukeliuzzo"
+  twitter          : #"lukeliuzzo"
   vine             :
   weibo            :
   xing             :
