@@ -10,11 +10,12 @@ author_profile: true
 {% include base_path %}
 ## <span style="color:gold">Talks</span>
 
-<b>Emission of Energetic Neutral Atoms from the Magnetosphere-Atmosphere Interactions at Callisto and Europa</b>. American Geophysical Union Fall Meeting, San Francisco, CA, USA, 12/2023.
+
+[//]: # <b>Emission of Energetic Neutral Atoms from the Magnetosphere-Atmosphere Interactions at Callisto and Europa</b>. American Geophysical Union Fall Meeting, San Francisco, CA, USA, 12/2023.
 
 
 
-## <span style="color:FloralWhite">Poster Presentations</span>
+## <span style="color:gold">Poster Presentations</span>
 
 <b>Modeling the Detection of Energetic Neutral Atoms at Europa and Callisto: a Tool to Characterize Moon-Magnetosphere Interactions on a Global Scale</b>. American Geophysical Union Fall Meeting, San Francisco, CA, USA, 12/2023.
 
