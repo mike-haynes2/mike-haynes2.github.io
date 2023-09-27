@@ -8,4 +8,4 @@ venue: 'Journal of Geophysical Research, Space Physics'
 paperurl: 'http://mike-haynes2.github.io/files/Haynes23_accepted.pdf'
 ---
 
-Recommended citation: Simon, S., P. Addison, and L. Liuzzo (2021). Formation of a displaced plasma wake at Neptune's moon Triton. <i>J. Geophy. Res. Space Physics, 127</i>, e2021JA029958, [doi:10.1029/2021JA029958](https://doi.org/10.1029/2021JA029958).
+Recommended citation: **Haynes, C. M.**, T. Tippens, P. Addison, L. Liuzzo, A. R. Poppe, and S. Simon (2023). Emission of Energetic Neutral Atoms from the Magnetosphere-Atmosphere Interactions at Callisto and Europa. <i>J. Geophy. Res. Space Physics, 127</i>, e2023JA031931, [doi:10.1029/2023JA031931](https://doi.org/10.1029/2023JA031931).
