@@ -30,7 +30,7 @@ In the early 2030s, ESA's [JUpiter Icy moons Explorer (JUICE) mission](https://w
 
 
 ## Callisto
-Callisto possesses the second most dense molecular oxygen rich atmosphere in the solar system- can you guess the first!? Given this, and its putative subsurface ocean, the Galilean moon has been a recent interest of the plasma physicists. I am interested in characterizing its highly variable interaction with the Jovian magnetosphere. In contrast to Europa and Io in the inner magnetosphere, Callisto orbits at over 26 Jupiter radii from Jupiter. This results in the magnetic field orientation and plasma conditions at Callisto to vary much more strongly than they do at the other Galilean moons. I have developed a model to apply a combination of particle tracing and hybrid plasma simulations to constrain the variability in ENA emissions at Callisto across its orbit. This work, in preparation for ESA's JUICE mission, will inform ideal spacecraft trajectories for ENA imaging of Callisto's rich interaction. 
+Callisto possesses the second most dense molecular oxygen rich atmosphere in the solar system- can you guess the first!? Given this, and its putative subsurface ocean, the Galilean moon has been a recent interest of the plasma physicists. I am interested in characterizing its highly variable interaction with the Jovian magnetosphere. In contrast to Europa and Io in the inner magnetosphere, Callisto orbits at over 26 Jupiter radii from Jupiter. This causes the magnetic field orientation and plasma conditions at Callisto to vary much more strongly than they do at the other Galilean moons. I have developed a model to apply a combination of particle tracing and hybrid plasma simulations to constrain the variability in ENA emissions at Callisto across its orbit. This work, in preparation for ESA's JUICE mission, will inform ideal spacecraft trajectories for ENA imaging of Callisto's rich interaction. 
 
 
 
@@ -42,6 +42,6 @@ After the [New Horizons](https://www.nasa.gov/mission_pages/newhorizons/main/ind
 
 About This Site
 ======
-I have been doing research in this field since May of 2022. Since then, I have had the opportunity to present some of my work at various conferences and in a publication. The menu bar across the top of this page will display these lists for you: namely, [talks](https://mike-haynes2.github.io/presentations/), [publications](https://mike-haynes2.github.io/publications/), and a link where you can access my [CV](https://mike-haynes2.github.io/cv/).
+I have been doing research in this field since May of 2022. Since then, I have had the opportunity to present some of my work at various conferences and in the peer-reviewed literature. The menu bar across the top of this page will display these lists for you: namely, [talks](https://mike-haynes2.github.io/presentations/), [publications](https://mike-haynes2.github.io/publications/), and a link where you can access my [CV](https://mike-haynes2.github.io/cv/).
 
 The small menu below my picture points you to many different accounts of mine, where you may contact me or learn a bit more about what I do. If you would like to get in contact, my [email](mailto:mhaynes@eas.gatech.edu) is linked there as well. Thanks for visiting!
