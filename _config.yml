@@ -87,7 +87,7 @@ google_analytics: G-0RFGF4SD9P
 author:
   name             : "C. Michael Haynes"
   avatar           : "profile.jpg"
-  bio              : "Doctoral Student Researcher in the School of Earth and Atmospheric Sciences"
+  bio              : "Ford ES&T Office 2118\ Doctoral Student Researcher in the School of Earth and Atmospheric Sciences"
   location         : "Atlanta, Georgia"
   employer         : "Georgia Institute of Technology"
   pubmed           : 
@@ -260,7 +260,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
