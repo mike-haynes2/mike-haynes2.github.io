@@ -87,9 +87,9 @@ google_analytics: G-0RFGF4SD9P
 author:
   name             : "C. Michael Haynes"
   avatar           : "profile.jpg"
-  bio              : "Ford ES&T Office 2118\ Doctoral Student Researcher in the School of Earth and Atmospheric Sciences"
+  bio              : "Ford ES&T Office 2118\ Doctoral Student Researcher\ School of Earth and Atmospheric Sciences"
   location         : "Atlanta, Georgia"
-  employer         : "Georgia Institute of Technology"
+  employer         : "[Georgia Institute of Technology](https://cos.gatech.edu/)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=dTwVdX0AAAAJ&hl=en"
   email            : "mhaynes@eas.gatech.edu"
