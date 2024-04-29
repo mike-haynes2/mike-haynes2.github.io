@@ -11,7 +11,7 @@ redirect_from:
 
 Hello there!
 
-Welcome to my personal webpage. I am a graduate researcher in the [School of Earth and Atmospheric Sciences](https://eas.gatech.edu/) at the [Georgia Institute of Technology](https://gatech.edu/) in Atlanta, Georgia. 
+Welcome to my personal webpage. I am a doctoral candidate in the [School of Earth and Atmospheric Sciences](https://eas.gatech.edu/) at the [Georgia Institute of Technology](https://gatech.edu/) in Atlanta, Georgia. 
 
 
 
