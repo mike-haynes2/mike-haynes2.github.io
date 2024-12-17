@@ -22,6 +22,11 @@ author_profile: true
 
 ## <span style="color:gold">Poster Presentations</span>
 
+
+<b>Global Morphology and Detectability of ENA Emissions from the Magnetosphere-Atmosphere Interactions at Callisto and Europa</b>. American Geophysical Union Fall Meeting, Washington D.C., USA, 12/2024.
+
+<b>Observability of Energetic Neutral Atom Emissions at Europa and Callisto: Predictions for the JUICE Mission</b>. American Geophysical Union Fall Meeting, Washington D.C., USA, 12/2024.
+
 <b>Magnetic Signatures of the Interaction Between Europa and Jupiter's Magnetosphere During the Juno Flyby</b>. EuroPlanet Science Congress, Berlin, Germany, 09/2024.
 
 <b>Global Morphology of ENA Emissions from the Atmosphere-Magnetosphere Interactions at Europa and Callisto</b>. EuroPlanet Science Congress, Berlin, Germany, 09/2024.
