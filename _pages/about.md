@@ -26,11 +26,9 @@ My work focuses on developing a method to remotely observe the complex, three-di
 ## Europa
 The interaction between Europa and the plasma embedded within the Jovian magnetosphere stimulates a complex physical system that is not yet entirely understood. The magnetic signatures obtained during [Galileo flybys](http://www.igpp.ucla.edu/public/mkivelso/Publications/316-Europa%20Chapt23%20.pdf) revealed an induction signature from a salty subsurface ocean that is one of the most likely candidates to host extraterrestrial life within the solar system. My work utilizes an established hybrid plasma model ([AIKEF](https://doi.org/10.1016/j.cpc.2010.12.033)) to simulate the magnetized Jovian plasma in the neighborhood of Europa and the resultant perturbations to the electromagnetic fields that develop from the interplay between this plasma and the neutral envelope & induced field of the Galilean moon. These simulations can offer context to magnetic field observations and plasma spectrometer readings from spacecraft flybys.
 
-![Addison, Haynes, et al. (2023)](../images/callisto_3D_img.jpg "Plasma interaction at Jupiter's moon Callisto")
-
 In the early 2030s, ESA's [JUpiter ICy moons Explorer (JUICE) mission](https://www.esa.int/Science_Exploration/Space_Science/Juice) will arrive at the Jovian system and take the first ENA images of the Galilean moons' interactions. In anticipation of this, I am developing the first model to self-consistently treat the plasma interaction with and subsequent ENA emissions from the atmosphere of Europa. Using a hybrid model to determine the field configurations and a particle tracing tool to evolve the propogating energetic ion trajectories, I am able to constrain the influence of key parameters on the ENA emission morphology, informing the upcoming JUICE campaign. 
 
-
+![Addison, Haynes, et al. (2023)](../images/callisto_3D_img.jpg "Plasma interaction at Jupiter's moon Callisto")
 
 
 ## Callisto
@@ -41,7 +39,7 @@ Callisto possesses the second-most dense oxygen rich atmosphere in the solar sys
 ## Pluto
 After the [New Horizons](https://www.nasa.gov/mission_pages/newhorizons/main/index.html) flyby of the dwarf planet in 2015, research studying the heliospheric environment of Pluto was reinvigorated. I have worked to implement the hybrid model at the Pluto system in a project during my first year of graduate school in a [Physics of Planets](https://eas.gatech.edu/courses/eas-6370) course. The orbital distance, and thus the heliospheric environment of Pluto is highly variable, ranging from 30 AU at perihelion to nearly 50 AU at aphelion. Since New Horizons only was able to perform a single flyby of the Plutonian system, I am interested in using the knowledge from the flyby to study the environment of Pluto throughout its 248 year orbit. Also, colleagues of mine are interested in constraining the three-dimensional nature of the plasma interaction during the New Horizons flyby using a joint model of the electromagnetic fields and energetic ion fluxes.
 
-
+![Ruch et al. (2025)](../images/pluto_fields.jpg "Plasma interaction at the Dwarf Planet Pluto")
 
 
 About This Site
