@@ -20,7 +20,7 @@ Active Research Interests
 ## Energetic Neutral Atom (ENA) Emissions
 My work focuses on developing a method to remotely observe the complex, three-dimensional interactions between magnetized plasmas and obstacles (such as moons or planets) through a more efficient and higher dimensional means. Currently, this is typically done by measuring magnetic fields and energetic particle counts along a close flyby of the moon. This method is indeed limited, since multiple flybys with the same upstream conditions are required to determine conclusively the 3-dimensional nature of the interaction. However, Energetic Neutral Atoms (ENAs) are a powerful tool for such remote sensing, since the morphology of ENA emissions is governed by the ambient neutral gas distribution, the ambient energetic ion distribution, and the local magnetic field configuration. As such, the emission of these ENAs may be imaged, corresponding to a 2-dimensional 'picture' of the interaction, in a sense. Reconstructing the physical nature of the obstacle-plasma interaction through theoretical considerations and numerical modeling is the goal and scope of my work.
 
-![Haynes et al. (2024)](../images/europa_ENA_img_bel-ds.png "Synthetic ENA image at Europa- Haynes et al, 2024")
+![Haynes et al. (2025a)](../images/europa_ENA_img_bel-ds.png "Synthetic ENA image at Europa- Haynes et al, 2025a")
 
 
 ## Europa
@@ -29,6 +29,12 @@ The interaction between Europa and the plasma embedded within the Jovian magneto
 In the early 2030s, ESA's [JUpiter ICy moons Explorer (JUICE) mission](https://www.esa.int/Science_Exploration/Space_Science/Juice) will arrive at the Jovian system and take the first ENA images of the Galilean moons' interactions. In anticipation of this, I am developing the first model to self-consistently treat the plasma interaction with and subsequent ENA emissions from the atmosphere of Europa. Using a hybrid model to determine the field configurations and a particle tracing tool to evolve the propogating energetic ion trajectories, I am able to constrain the influence of key parameters on the ENA emission morphology, informing the upcoming JUICE campaign. 
 
 ![Addison, Haynes, et al. (2023)](../images/callisto_3D_img.jpg "Plasma interaction at Jupiter's moon Callisto")
+
+
+## Ganymede
+Jupiter's moon Ganymede has been the latest intrigue of our ENA science. Ganymede possesses a strong internal magnetic field and is also constantly exposed to the sub-Alfvenic flow of thermal ions and electrons in the Jovian plasma sheet. This flow is deflected by the moon's atmosphere and magnetic field, generating a plasma interaction. The precipitation of energetic magnetospheric ions through this interaction is highly modified both by the internal field and currents from the plasma interaction. Hence, we seek to constrain just how much each effect plays into the ENA emission pattern that is observable near Ganymede. As the primary target of the JUICE mission, this work will help maximize the scientic return of the ENA observations to be taken during flybys and orbits, allowing us to extract meaningful physical observations from the ENA emissions.
+
+![Haynes et al. (2025b)](../images/gany_FL_fig.png "Open magnetosphere of Ganymede- Haynes et al, 2025b")
 
 
 ## Callisto
