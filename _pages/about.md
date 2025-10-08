@@ -8,17 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-
 Hello there!
 
 Welcome to my personal webpage. I am a doctoral candidate in the [School of Earth and Atmospheric Sciences](https://eas.gatech.edu/) at the [Georgia Institute of Technology](https://gatech.edu/) in Atlanta, Georgia. 
 
 
 
-Active Research Interests
+Research Overview
 ======
 ## Energetic Neutral Atom (ENA) Emissions
-My work focuses on developing a method to remotely observe the complex, three-dimensional interactions between magnetized plasmas and obstacles (such as moons or planets) through a more efficient and higher dimensional means. Currently, this is typically done by measuring magnetic fields and energetic particle counts along a close flyby of the moon. This method is indeed limited, since multiple flybys with the same upstream conditions are required to determine conclusively the 3-dimensional nature of the interaction. However, Energetic Neutral Atoms (ENAs) are a powerful tool for such remote sensing, since the morphology of ENA emissions is governed by the ambient neutral gas distribution, the ambient energetic ion distribution, and the local magnetic field configuration. As such, the emission of these ENAs may be imaged, corresponding to a 2-dimensional 'picture' of the interaction, in a sense. Reconstructing the physical nature of the obstacle-plasma interaction through theoretical considerations and numerical modeling is the goal and scope of my work.
+My work focuses on developing a method to remotely observe the complex, three-dimensional interactions between magnetized plasmas and obstacles (such as moons or planets) through a more efficient and higher dimensional means. Currently, this is typically done by measuring magnetic fields and energetic particle counts along a close flyby of the moon. This method is indeed limited, since multiple flybys with the same upstream conditions are required to determine the 3-dimensional nature of the interaction. However, Energetic Neutral Atoms (ENAs) are a powerful tool for such remote sensing, since the morphology of ENA emissions is governed by the ambient neutral gas distribution, the ambient energetic ion distribution, and the local magnetic field configuration. As such, the emission of these ENAs may be imaged, corresponding to a 2-dimensional 'picture' of the interaction, in a sense. Reconstructing the physical nature of the obstacle-plasma interaction through theoretical considerations and numerical modeling is the goal and scope of my work.
 
 ![Haynes et al. (2025a)](../images/europa_ENA_img_bel-ds.png "Synthetic ENA image at Europa- Haynes et al, 2025a")
 
