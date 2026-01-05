@@ -12,7 +12,7 @@ author_profile: true
 
 [//]: # Comment in js, useful for storing entries.
 
-<b>Detectability of ENA Emissions from the Magnetosphere-Atmosphere Interactions at Europa, Ganymede, and Callisto: Providing Context for the JUICE Mission (Invited)</b>. American Geophysical Union Fall Meeting, New Orleans, USA, 12/2025.
+<b>(Invited) Detectability of ENA Emissions from the Magnetosphere-Atmosphere Interactions at Europa, Ganymede, and Callisto: Providing Context for the JUICE Mission</b>. American Geophysical Union Fall Meeting, New Orleans, USA, 12/2025.
 
 <b>Observability of ENA Emissions at Europa and Callisto: Predictions for the JUICE Mission</b>. EuroPlanet Science Congress, Berlin, Germany, 09/2024.
 
