@@ -12,6 +12,8 @@ author_profile: true
 
 [//]: # Comment in js, useful for storing entries.
 
+<b>Detectability of ENA Emissions from the Magnetosphere-Atmosphere Interactions at Europa, Ganymede, and Callisto: Providing Context for the JUICE Mission (Invited)</b>. American Geophysical Union Fall Meeting, New Orleans, USA, 12/2025.
+
 <b>Observability of ENA Emissions at Europa and Callisto: Predictions for the JUICE Mission</b>. EuroPlanet Science Congress, Berlin, Germany, 09/2024.
 
 <b>Global Morphology of ENA Emissions from the Atmosphere-Magnetosphere Interactions at Callisto and Europa</b>. Magnetospheres of the Outer Planets Meeting, Minneapolis, MN, USA, 07/2024.
@@ -22,6 +24,10 @@ author_profile: true
 
 ## <span style="color:gold">Poster Presentations</span>
 
+
+<b>Emission of Energetic Neutral Atoms from Ganymede's Magnetosphere-Atmosphere Interaction</b>. American Geophysical Union Fall Meeting, New Orleans, USA, 12/2025.
+
+<b>A Modeling Framework for the Analysis of ENA Images from Cassini's Titan Flybys</b>. American Geophysical Union Fall Meeting, New Orleans, USA, 12/2025.
 
 <b>Global Morphology and Detectability of ENA Emissions from the Magnetosphere-Atmosphere Interactions at Callisto and Europa</b>. American Geophysical Union Fall Meeting, Washington D.C., USA, 12/2024.
 
