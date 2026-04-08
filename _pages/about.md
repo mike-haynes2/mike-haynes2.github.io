@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome to my personal webpage.
 
-I am a doctoral candidate in the [School of Earth and Atmospheric Sciences](https://eas.gatech.edu/) at the [Georgia Institute of Technology](https://gatech.edu/) in Atlanta, Georgia. My research uses numerical and theoretical techniques to study the space environment of different objects in our solar system.
+I am a doctoral candidate and presidential fellow in the [School of Earth and Atmospheric Sciences](https://eas.gatech.edu/) at the [Georgia Institute of Technology](https://gatech.edu/) in Atlanta, Georgia. My research uses numerical and theoretical techniques to study the space environment of different objects in our solar system.
 
 
 
