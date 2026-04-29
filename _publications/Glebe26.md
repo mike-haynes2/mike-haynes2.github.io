@@ -3,7 +3,7 @@ title: "Compression of Mercury’s Dayside Magnetopause to the Surface: a Three-
 collection: publications
 permalink: /publication/Glebe26
 #excerpt: ''
-date: 03-10-2026
+date: 2026-03-10
 venue: 'Journal of Geophysical Research, Space Physics'
 paperurl: 'http://mike-haynes2.github.io/files/glebe26_.pdf'
 ---
